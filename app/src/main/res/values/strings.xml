@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <!-- Login/Register Field Names -->
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="firstname">First Name:</string>
+    <string name="lastname">Last Name:</string>
+    <string name="email_address">Email:</string>
+    <string name="gender">Gender:</string>
+
+    <!-- Login Button Names -->
+    <string name="signIn_button">SIGN IN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="male_radio_button">Male</string>
+    <string name="female_radio_button">Female</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Menu Item Names -->
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Map Fragment Default Name -->
+    <string name="click_to_see">Click on a marker to see event details</string>
+
+    <!-- Settings -->
+    <string name="life_story_line">Life Story Lines</string>
+    <string name="fam_tree_line">Family Tree Lines</string>
+    <string name="spouse_line">Spouse Lines</string>
+    <string name="father_side">Father\'s Side</string>
+    <string name="mother_side">Mother\'s Side</string>
+    <string name="male_events">Male Events</string>
+    <string name="female_events">Female Events</string>
+    <string name="logout">Logout</string>
+
+    <string name="life_story_line_detail">SHOW LIFE STORY LINES</string>
+    <string name="fam_tree_line_detail">SHOW FAMILY TREE LINES</string>
+    <string name="spouse_line_detail">SHOW SPOUSE LINES</string>
+    <string name="father_side_detail">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="mother_side_detail">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="male_events_detail">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_events_detail">FILTER EVENTS BASED ON GENDER</string>
+    <string name="logout_detail">RETURN TO LOGIN SCREEN</string>
+
+    <string name="settings_saving_key">KeyToSaveSettings</string>
+    <string name="lifeStoryLine_key">true</string>
+    <bool name="familyTreeLine_key">true</bool>
+    <bool name="spouseLine_key">true</bool>
+    <bool name="motherSide_key">true</bool>
+    <bool name="fatherSide_key">true</bool>
+    <bool name="maleEvents_key">true</bool>
+    <bool name="femaleEvents_key">true</bool>
+
+    <!-- Person Activity -->
+    <string name="firstName_description">First Name</string>
+    <string name="lastName_description">Last Name</string>
+    <string name="gender_description">Gender</string>
+    <string name="life_events_title">LIFE EVENTS</string>
+    <string name="family_title">FAMILY</string>
+
+    <!-- Search Activity -->
+    <string name="search_btn">SEARCH</string>
+
+
+</resources>
